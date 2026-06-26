@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Union-Find
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
