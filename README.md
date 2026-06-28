@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/iamnileshpr/learn_DSA/tree/master/0743-network-delay-time) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
 |  |
@@ -32,12 +33,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
+| [0743-network-delay-time](https://github.com/iamnileshpr/learn_DSA/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
+| [0743-network-delay-time](https://github.com/iamnileshpr/learn_DSA/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/iamnileshpr/learn_DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/iamnileshpr/learn_DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
