@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/iamnileshpr/learn_DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/iamnileshpr/learn_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamnileshpr/learn_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/iamnileshpr/learn_DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
