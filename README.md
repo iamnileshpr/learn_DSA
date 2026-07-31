@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamnileshpr/learn_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamnileshpr/learn_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
