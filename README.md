@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/iamnileshpr/learn_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
+| [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
