@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1572-matrix-diagonal-sum](https://github.com/iamnileshpr/learn_DSA/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/iamnileshpr/learn_DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
