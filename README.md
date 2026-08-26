@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/iamnileshpr/learn_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
+| [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/iamnileshpr/learn_DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0867-transpose-matrix) |
