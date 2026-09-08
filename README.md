@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/iamnileshpr/learn_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -144,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
