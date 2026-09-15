@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/iamnileshpr/learn_DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/iamnileshpr/learn_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/iamnileshpr/learn_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamnileshpr/learn_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/iamnileshpr/learn_DSA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/iamnileshpr/learn_DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
