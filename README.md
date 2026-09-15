@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iamnileshpr/learn_DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/iamnileshpr/learn_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/iamnileshpr/learn_DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/iamnileshpr/learn_DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 ## Boyer–Moore Majority Vote Algorithm
