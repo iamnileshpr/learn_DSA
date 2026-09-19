@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1207-unique-number-of-occurrences](https://github.com/iamnileshpr/learn_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/iamnileshpr/learn_DSA/tree/master/1572-matrix-diagonal-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamnileshpr/learn_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamnileshpr/learn_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
