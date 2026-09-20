@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/iamnileshpr/learn_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/iamnileshpr/learn_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/iamnileshpr/learn_DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/iamnileshpr/learn_DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamnileshpr/learn_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/iamnileshpr/learn_DSA/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
