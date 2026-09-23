@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1207-unique-number-of-occurrences](https://github.com/iamnileshpr/learn_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/iamnileshpr/learn_DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamnileshpr/learn_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamnileshpr/learn_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamnileshpr/learn_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamnileshpr/learn_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamnileshpr/learn_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamnileshpr/learn_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamnileshpr/learn_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamnileshpr/learn_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
