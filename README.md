@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/iamnileshpr/learn_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/iamnileshpr/learn_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamnileshpr/learn_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2785-sort-vowels-in-a-string](https://github.com/iamnileshpr/learn_DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/3794-reverse-string-prefix) |
 ## Union-Find
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamnileshpr/learn_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/iamnileshpr/learn_DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamnileshpr/learn_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
