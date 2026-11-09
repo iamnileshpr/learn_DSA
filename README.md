@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/iamnileshpr/learn_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/iamnileshpr/learn_DSA/tree/master/1108-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamnileshpr/learn_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/iamnileshpr/learn_DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/3794-reverse-string-prefix) |
@@ -236,4 +237,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/iamnileshpr/learn_DSA/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
