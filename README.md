@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamnileshpr/learn_DSA/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/iamnileshpr/learn_DSA/tree/master/0443-string-compression) |
+| [0686-repeated-string-match](https://github.com/iamnileshpr/learn_DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/iamnileshpr/learn_DSA/tree/master/0796-rotate-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamnileshpr/learn_DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/iamnileshpr/learn_DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/iamnileshpr/learn_DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/iamnileshpr/learn_DSA/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
@@ -249,9 +251,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/iamnileshpr/learn_DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/iamnileshpr/learn_DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/iamnileshpr/learn_DSA/tree/master/1392-longest-happy-prefix) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/iamnileshpr/learn_DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
