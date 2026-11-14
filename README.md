@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/iamnileshpr/learn_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/iamnileshpr/learn_DSA/tree/master/0203-remove-linked-list-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamnileshpr/learn_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/iamnileshpr/learn_DSA/tree/master/0203-remove-linked-list-elements) |
 ## Merge Sort
 |  |
 | ------- |
