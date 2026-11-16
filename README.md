@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/iamnileshpr/learn_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamnileshpr/learn_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/iamnileshpr/learn_DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/iamnileshpr/learn_DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Design
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamnileshpr/learn_DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Simulation
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/iamnileshpr/learn_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamnileshpr/learn_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/iamnileshpr/learn_DSA/tree/master/0443-string-compression) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamnileshpr/learn_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/iamnileshpr/learn_DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/iamnileshpr/learn_DSA/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
